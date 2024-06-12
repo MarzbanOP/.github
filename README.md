@@ -1,7 +1,7 @@
-#What is our *misson* ?
+# What is our *misson* ?
 give features above the vanilla Marzabn and give you the best experince by far for bypassing your GFW.
 
-#Our rules
+# Our rules
 A. It is required for the programs coded by our team to be multilingual.
   1. Farsi
   2. English
